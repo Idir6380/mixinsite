@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/mixinsite/static/css/main.76ebe402.chunk.css",
+    "main.js": "/mixinsite/static/js/main.a4e12358.chunk.js",
+    "main.js.map": "/mixinsite/static/js/main.a4e12358.chunk.js.map",
+    "runtime-main.js": "/mixinsite/static/js/runtime-main.db60da5e.js",
+    "runtime-main.js.map": "/mixinsite/static/js/runtime-main.db60da5e.js.map",
+    "static/js/2.279d634b.chunk.js": "/mixinsite/static/js/2.279d634b.chunk.js",
+    "static/js/2.279d634b.chunk.js.map": "/mixinsite/static/js/2.279d634b.chunk.js.map",
+    "static/js/3.83d85450.chunk.js": "/mixinsite/static/js/3.83d85450.chunk.js",
+    "static/js/3.83d85450.chunk.js.map": "/mixinsite/static/js/3.83d85450.chunk.js.map",
+    "index.html": "/mixinsite/index.html",
+    "static/css/main.76ebe402.chunk.css.map": "/mixinsite/static/css/main.76ebe402.chunk.css.map",
+    "static/js/2.279d634b.chunk.js.LICENSE.txt": "/mixinsite/static/js/2.279d634b.chunk.js.LICENSE.txt",
+    "static/media/Ai.00b92e76.svg": "/mixinsite/static/media/Ai.00b92e76.svg",
+    "static/media/HTML-Css.46528ca2.svg": "/mixinsite/static/media/HTML-Css.46528ca2.svg",
+    "static/media/Ps.9d5e14b4.svg": "/mixinsite/static/media/Ps.9d5e14b4.svg",
+    "static/media/React.2c2def6e.svg": "/mixinsite/static/media/React.2c2def6e.svg",
+    "static/media/figma.4a8b3734.svg": "/mixinsite/static/media/figma.4a8b3734.svg",
+    "static/media/js.5dd82095.svg": "/mixinsite/static/media/js.5dd82095.svg",
+    "static/media/logos_flutter.7619bbbf.svg": "/mixinsite/static/media/logos_flutter.7619bbbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db60da5e.js",
+    "static/js/2.279d634b.chunk.js",
+    "static/css/main.76ebe402.chunk.css",
+    "static/js/main.a4e12358.chunk.js"
+  ]
+}
